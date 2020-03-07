@@ -19,3 +19,4 @@ If you’re using Word 95 or lower (or if you’re
 tired of that quick brown fox), you can use the 
 traditional Latin “Lorem ipsum dolor . . . ,” 
 which has been used as placeholder text for centuries:
+which has been used as placeholder text for centuries changed
